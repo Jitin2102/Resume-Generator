@@ -1,2 +1,2 @@
 # Resume-Generator
-** to deploy the project i have to merge html and js file into a singlr file  named as index.html**
+** To deploy the project through GithubPages I have to merge html and js file into a single file  named as index.html**
